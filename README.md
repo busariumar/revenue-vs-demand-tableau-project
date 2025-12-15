@@ -20,7 +20,7 @@ This project investigates whether revenue performance is driven by demand, prici
 - What pizzas generate the most money per sale?
 
 ## Dashboard Overview
-The <a href=https://github.com/busariumar/revenue-vs-demand-tableau-project/blob/main/Pizza%20Sale%20Dashboard.jpg>dashboard</a> compares revenue, quantity, and revenue efficiency to identify misleading best-sellers and uncover true revenue drivers.
+The <a href="https://github.com/busariumar/revenue-vs-demand-tableau-project/blob/main/PIZZA%20SALE%20REVENUE%20INSIGHT.twbx">dashboard</a> compares revenue, quantity, and revenue efficiency to identify misleading best-sellers and uncover true revenue drivers.
 ![Pizza Sale Dashboard](https://github.com/user-attachments/assets/30a2018b-8dd8-413f-9f9e-ba1b31523194)
 
 ## Key Insights
