@@ -11,7 +11,7 @@ This project investigates whether revenue performance is driven by demand, prici
 - GitHub (Project Documentation)
 
 ## Dataset Used
-- 
+- <a href="https://github.com/busariumar/revenue-vs-demand-tableau-project/blob/main/pizza_sales.csv">Pizza Sales</a>
 
 ## Key Business Questions
 - Do high-selling pizzas generate the most revenue?
